@@ -1,0 +1,10 @@
+export const GET_USERS = "GET_USERS";
+export const GET_LEEDS = "GET_LEEDS";
+export const GET_TASKS = "GET_TASKS";
+export const ADD_TASKS = "ADD_TASKS";
+export const GET_QUOTES = "GET_QUOTES";
+export const ADD_QUOTES = "ADD_QUOTES";
+export const GET_THEMES = "GET_THEMES";
+export const ADD_THEMES = "ADD_THEMES";
+export const GET_SECTIONS = "GET_SECTIONS";
+export const ADD_SECTIONS = "ADD_SECTIONS";
